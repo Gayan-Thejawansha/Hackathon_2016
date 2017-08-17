@@ -1,0 +1,25 @@
+#acesHackathon2016
+
+aces hackathon 2016 - Most Popular Idea Template
+
+============
+Instructions
+============
+
+This zip file includes;
+
+	Sample background image
+	Sample photoshop file
+	Required fonts
+
+Your post must include
+
+	aces logo (provided)
+	sponsors bar (provided)
+	aces hackathon logo (provided)
+	Use of the provided template 
+	idea name + few lines + images
+
+============
+
+all the best for your hacking :)
